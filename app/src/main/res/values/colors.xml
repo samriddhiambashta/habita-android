@@ -4,4 +4,9 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="colorRed">#F60759</color>
-</resources>
+    <color name="home">#00BFA6</color>
+    <color name="profile">#00BFA6</color>
+    <color name="setting">#00BFA6</color>
+    <color name="background">#fff</color>
+
+ </resources>
